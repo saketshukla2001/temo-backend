@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tempocabs",
+  "private_key_id": "7af3805b055769e59cb92c54d970f3ab8bf17463",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBhn785tt/v78j\nhtS5Gwine1LuH2h73rWrc3j+QmKOQEyGnwNimKAOJU/FSbEQumCW8CSJBmsnkf1S\n715EXAY7gyawC8XSQoL9kYTk9TWGMM9Dv6pSt0m4EzIjowyFHJVpQpSXpWKIiHmk\nxc1U/NVe5iW5BtMput9VswwGVozldTIWUdviz94qMVtUzChNZMK/bfBNUUOyomvc\naKCSLP9aLCfhD7mJp0BhR5PABjPfg9CVPSQWOD7ypuRKyiatFuEbYjEX9aS3fbhX\nuz7zQVOctXFk8VgJWz9kv7iW2RMccVx6fhGbrI+5//M6KT8wj6+IFLnGQ3GD7vyo\nOY8LJAL1AgMBAAECggEAE+ueQrYYvgukxyln2C36NBMztCMzhBymoqFeQP3gWzgv\nKGRR2uJPB2W70lkFiu1EaAUMHba1bPtQEitljq/STGnxn4l2sW/7P9Ks1UyQV+HK\nU/T0uVL4maQQMy7jaQhKMO2TkhCKFffGXbmmqyrjY8NY+rTDI7aCqrWldTmPg0bg\n83lAe1RC3Ef7UWm21ho8Cx1j95i4QqM3UqCwvIHb76SsktIxgSHKAWHLzgX0cGsc\nd0y5ODx/uA6/aLaw3LOZOzuE2WyHP4hWFmMRrgrAG7JZkYmGkIqUPuwc3MTbsq2O\n3VB9t9jBTFgSlTzoZAcQ92ZR5waxVzADYZXguvJiuQKBgQD2bFp0g5X5cIxBEaJV\nDYGzQ1gYsc8kB3zF36bxZAdKt4o5aNlXaxXE//LltHVF2900Bj0NgdwsqxXT6433\nQbMC2egkJrj3K8oCltU5WmrZQRbCpA7lUjIXAezNix0zCc7foOtQGgTKDPcBJqpy\nRmb1dXN5Bm3Tt8c2E/l033ICwwKBgQDJC92ZvtP08k7StvFZNuP3OPAoBUhLto0s\nVKUE+WBbZkV7ICScbwu1ZZaqQddrm/4ptgrFGxZS7CtOed8AAczWBwH6ih3qCH39\nS/k4oigjIq4KqzZi2bnwZKG+w7fpMrEAWJK3easRdIQD3LeV2p7vttJieOyZZmb5\n5oz5RqwX5wKBgQCP8k2IoFEcS9VyMSXdfy1TlTRCAKQazNDjGbmAaskjqUFyNcA4\nI5Ks6EJwUlDrBPsbZ8WEPWZrJWlzyLa+R7+VG8tSSthjck3n40oc3adqz23HN2SI\nKtKdw/8bNndRGBqjYXHz8a74hEhJgNeyN1PvcLOKb+n58fHJsjNXRStpVwKBgGlX\nSUZ8oYyPxdNMvgrz4uCvuc4OboIVZcUbmNeRXvalELTh86zv1l+2mgods6UTuEnc\ns6nxdnH+gvZ8jubvCof+ZgADjIcK6hDlVPFircszKaQ3b6i90lpuL/3HiT6sK+g1\ngLKYEpVzypRHev4O7gZGcdfc6oO6DyzTq3wVlqhzAoGAayAb+c3R+eVturo4Z726\nrP0v707DzyznMbcmZQMVMW5tT6lXSef4eD1pVrYEixzby+3T89Z7rGdeiE3nyUbR\n+t+UYi+nrFYQQwJyGufbLZyZFYBw8lXN7QOT8DPGS4KBemuxj189FNJCWw0d8Uah\nOXgSeFdBWDhAAlY94Lk7acE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@tempocabs.iam.gserviceaccount.com",
+  "client_id": "106887976936364341646",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40tempocabs.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
